@@ -1,0 +1,7 @@
+**/node_modules
+!src
+src/*
+!src/custom_functions/
+andrew\ marlin
+TODO
+**/.ipynb_checkpoints
